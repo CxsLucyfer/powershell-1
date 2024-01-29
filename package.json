@@ -23,7 +23,7 @@
     "@actions/exec": "^1.0.3",
     "@actions/io": "^1.0.2",
     "@actions/tool-cache": "^1.6.1",
-    "fs": "0.0.1-security",
+    "fs": "0.0.2",
     "os": "^0.1.1",
     "path": "^0.12.7",
     "stream": "0.0.2",
